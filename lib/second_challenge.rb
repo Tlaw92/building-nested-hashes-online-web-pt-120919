@@ -1,3 +1,4 @@
+Learn more or give us feedback
 def second_challenge
   epic_tragedy = {
     :montague => {
